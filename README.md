@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Iam Ishan Shah</h1>
+<h1 align="center">Hi 👋, I am Ishan Shah</h1>
 <h3 align="center">Software Engineer | Rochester, NY</h3>
 
 </p>
