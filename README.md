@@ -13,7 +13,7 @@
 
 ### 📫 Reach Me At
 - Email: **is4761@rit.edu**  
-- Resume: [View Resume](https://drive.google.com/file/d/1PtOdEip5uOsS0NiV81YLq1nut10d09Q5/view?usp=sharing)
+<--- - Resume: [View Resume](https://drive.google.com/file/d/1PtOdEip5uOsS0NiV81YLq1nut10d09Q5/view?usp=sharing)-->
 - LinkedIn: [/ishan-shah-224673183/](https://www.linkedin.com/in/ishan-shah-224673183/)
 
 ---
